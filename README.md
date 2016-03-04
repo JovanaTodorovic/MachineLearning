@@ -3,6 +3,7 @@
 # Machine Learning
 In this section I updated some of the codes that I edited during my course on [Coursera](https://www.coursera.org/learn/machine-learning)
 
-> Codes for (Navest	i neke od zanimljivih kodova)
+> Codes for logistic regression, neural networks, SVM, anomaly detection
 
 ## Short Notes
+
