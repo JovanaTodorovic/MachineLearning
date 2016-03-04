@@ -1,2 +1,2 @@
-# MachineLearning
-Machine learning codes I edited during a course on Coursera (link for the course in README)
+# Machine Learning
+In this section I updated some of the codes that I edited during my course on Coursera ()
